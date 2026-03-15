@@ -2,7 +2,7 @@
 {
   "name": "Gastador",
   "short_name": "Gastador",
-  "start_url": "https://protokite-bit.github.io/Gastador-v3/",
+  "start_url": "/Gastador-v3/",
   "display": "standalone",
   "background_color": "#cfefff",
   "theme_color": "#cfefff",
